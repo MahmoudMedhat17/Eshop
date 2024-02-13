@@ -4,7 +4,7 @@ const Products = () => {
     const firstProducts = [
         {
             id: 1,
-            img: "public/images/headphone1.jpg",
+            img: "/public/images/headphone1.jpg",
             name: "Boat Headphone",
             price: "$120",
             dataAos: "fade-up",
@@ -12,7 +12,7 @@ const Products = () => {
         },
         {
             id: 2,
-            img: "public/images/watch2.jpg",
+            img: "/public/images/watch2.jpg",
             name: "Rocky Mountain",
             price: "$420",
             dataAos: "fade-up",
@@ -20,7 +20,7 @@ const Products = () => {
         },
         {
             id: 3,
-            img: "public/images/headphone2.jpg",
+            img: "/public/images/headphone2.jpg",
             name: "Goggles",
             price: "$320",
             dataAos: "fade-up",
@@ -28,7 +28,7 @@ const Products = () => {
         },
         {
             id: 4,
-            img: "public/images/headphone1.jpg",
+            img: "/public/images/headphone1.jpg",
             name: "Printed",
             price: "$220",
             dataAos: "fade-up",
@@ -39,7 +39,7 @@ const Products = () => {
     const secondProducts = [
         {
             id: 1,
-            img: "public/images/headphone3.jpg",
+            img: "/public/images/headphone3.jpg",
             name: "Boat Headphone",
             price: "$120",
             dataAos: "fade-up",
@@ -47,7 +47,7 @@ const Products = () => {
         },
         {
             id: 2,
-            img: "public/images/headphone4.jpg",
+            img: "/public/images/headphone4.jpg",
             name: "Rocky Mountain",
             price: "$420",
             dataAos: "fade-up",
@@ -55,7 +55,7 @@ const Products = () => {
         },
         {
             id: 3,
-            img: "public/images/headphone5.jpg",
+            img: "/public/images/headphone5.jpg",
             name: "Goggles",
             price: "$320",
             dataAos: "fade-up",
@@ -63,7 +63,7 @@ const Products = () => {
         },
         {
             id: 4,
-            img: "public/images/headphone3.jpg",
+            img: "/public/images/headphone3.jpg",
             name: "Printed",
             price: "$220",
             dataAos: "fade-up",

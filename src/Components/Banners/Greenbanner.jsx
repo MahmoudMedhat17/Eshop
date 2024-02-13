@@ -14,7 +14,7 @@ const Greenbanner = () => {
                     {/* Second col */}
                     <div className="flex justify-center" data-aos="zoom-in">
                         <img
-                            src="public/images/greenWatch.png"
+                            src="/public/images/greenWatch.png"
                             alt="Headphone image"
                             className="w-[250px] lg:w-[300px] scale-125 lg:scale-150 mx-auto drop-shadow-[-10px_4px_8px_rgba(0,0,0,0.4)] object-contain"
                         />
