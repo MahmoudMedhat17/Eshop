@@ -1,6 +1,5 @@
 import { useEffect, useState } from "react";
-import lightTheme from "/public/images/lightMode.png";
-import darkTheme from "/public/images/darkMode.png";
+
 
 const Darkmode = () => {
     const [theme, setTheme] = useState(localStorage.getItem("theme") ? localStorage.getItem("theme") : "light");
@@ -26,13 +25,13 @@ const Darkmode = () => {
     return (
         <div className="relative">
             <img
-                src={lightTheme}
+                src="/public/images/lightMode.png"
                 alt="lightTheme"
                 className={`w-12 cursor-pointer absolute z-40 ${theme === "dark" ? "opacity-0" : "opacity-100"} transition-all duration-300`}
                 onClick={darkModefunc}
             />
             <img
-                src={darkTheme}
+                src="/public/images/darkMode.png"
                 alt="darkTheme"
                 className={`w-12 cursor-pointer`}
                 onClick={darkModefunc}
