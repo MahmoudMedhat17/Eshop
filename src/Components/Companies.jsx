@@ -4,23 +4,23 @@ const Companies = () => {
   const logos = [
     {
       id: 1,
-      img: "/public/images/golden.png"
+      img: "/src/Images/golden.png"
     },
     {
       id: 2,
-      img: "/public/images/jackRoller.png"
+      img: "/src/Images/jackRoller.png"
     },
     {
       id: 3,
-      img: "/public/images/sweety.png"
+      img: "/src/Images/sweety.png"
     },
     {
       id: 4,
-      img: "/public/images/mr.png"
+      img: "/src/Images/mr.png"
     },
     {
       id: 5,
-      img: "/public/images/fastlane.png"
+      img: "/src/Images/fastlane.png"
     }
   ]
 

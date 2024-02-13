@@ -25,7 +25,7 @@ const Categoryone = () => {
                         {/* Earphone image */}
                         <div className="absolute bottom-0 -right-3">
                             <img
-                                src="/public/images/earphone.png"
+                                src="/src/Images/earphone.png"
                                 alt="Earphone"
                                 className="w-[250px]"
                             />
@@ -47,7 +47,7 @@ const Categoryone = () => {
                         {/* Yellow watch image */}
                         <div className="absolute -right-2">
                             <img
-                                src="/public/images/yellowWatch.png"
+                                src="/src/Images/yellowWatch.png"
                                 alt="Yellow watch"
                                 className="w-[250px]"
                             />
@@ -69,7 +69,7 @@ const Categoryone = () => {
                         {/* Yellow watch image */}
                         <div className="absolute right-0">
                             <img
-                                src="/public/images/laptop.png"
+                                src="/src/Images/laptop.png"
                                 alt="Yellow watch"
                                 className="w-[250px]"
                             />

@@ -25,13 +25,13 @@ const Darkmode = () => {
     return (
         <div className="relative">
             <img
-                src="/public/images/lightMode.png"
+                src="/src/Images/lightMode.png"
                 alt="lightTheme"
                 className={`w-12 cursor-pointer absolute z-40 ${theme === "dark" ? "opacity-0" : "opacity-100"} transition-all duration-300`}
                 onClick={darkModefunc}
             />
             <img
-                src="/public/images/darkMode.png"
+                src="/src/Images/darkMode.png"
                 alt="darkTheme"
                 className={`w-12 cursor-pointer`}
                 onClick={darkModefunc}

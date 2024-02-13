@@ -21,7 +21,7 @@ const Categorytwo = () => {
                         {/* PS4 image */}
                         <div className="absolute right-3">
                             <img
-                                src="/public/images/ps4.png"
+                                src="/src/Images/ps4.png"
                                 alt="Ps4 image"
                                 className="w-[200px]"
                             />
@@ -43,7 +43,7 @@ const Categorytwo = () => {
                         {/* VR image */}
                         <div className="absolute right-2">
                             <img
-                                src="/public/images/firstPerson.png"
+                                src="/src/Images/firstPerson.png"
                                 alt="Vr image"
                                 className="w-[200px]"
                             />
@@ -65,7 +65,7 @@ const Categorytwo = () => {
                         {/* Music gadget image */}
                         <div className="absolute right-0 lg:right-3">
                             <img
-                                src="/public/images/music.png"
+                                src="/src/Images/music.png"
                                 alt="Music speaker image"
                                 className="w-[200px] lg:w-[250px]"
                             />
