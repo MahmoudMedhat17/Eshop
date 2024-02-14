@@ -1,5 +1,6 @@
 import Slider from "react-slick";
 import Herobtn from "./Herobtn";
+import redHeadphone from "../../public/Images/Headphones.png";
 
 
 const heroInfo = [
@@ -8,7 +9,7 @@ const heroInfo = [
         beats: "Beats Solo",
         type: "Wireless",
         name: "Headphone",
-        img: "/Images/Headphones.png"
+        img: redHeadphone
     },
     {
         id: 2,
