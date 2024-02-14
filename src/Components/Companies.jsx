@@ -1,26 +1,31 @@
+import Golden from "../../public/Images/golden.png";
+import JackRoller from "../../public/Images/jackRoller.png";
+import Sweety from "../../public/Images/sweety.png";
+import Mr from "../../public/Images/mr.png";
+import Fastlane from "../../public/Images/fastlane.png";
 
 const Companies = () => {
 
   const logos = [
     {
       id: 1,
-      img: "public/Images/golden.png"
+      img: Golden
     },
     {
       id: 2,
-      img: "public/Images/jackRoller.png"
+      img: JackRoller
     },
     {
       id: 3,
-      img: "public/Images/sweety.png"
+      img: Sweety
     },
     {
       id: 4,
-      img: "public/Images/mr.png"
+      img: Mr
     },
     {
       id: 5,
-      img: "public/Images/fastlane.png"
+      img: Fastlane
     }
   ]
 
