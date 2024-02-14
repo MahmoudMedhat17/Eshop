@@ -8,21 +8,21 @@ const heroInfo = [
         beats: "Beats Solo",
         type: "Wireless",
         name: "Headphone",
-        img: "/src/Images/Headphones.png"
+        img: "/Images/Headphones.png"
     },
     {
         id: 2,
         beats: "Beats Solo",
         type: "Wireless",
         name: "Virtual",
-        img: "/src/Images/firstPerson.png"
+        img: "/Images/firstPerson.png"
     },
     {
         id: 3,
         beats: "Beats Solo",
         type: "Wired",
         name: "Laptops",
-        img: "/src/Images/laptop.png"
+        img: "/Images/laptop.png"
     }
 ]
 

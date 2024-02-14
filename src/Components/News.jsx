@@ -4,7 +4,7 @@ const News = () => {
   const news = [
     {
       id: 1,
-      img: "/src/Images/handWatch.jpg",
+      img: "/Images/handWatch.jpg",
       date: "Feb 15, 2024 by Ahmed",
       title: "How to choose perfect smartwatch",
       description: "minima facere deserunt vero illo beatae deleniti eius dolores consequuntur, eligendi corporis maiores molestiae laudantium. Porro?",
@@ -13,7 +13,7 @@ const News = () => {
     },
     {
       id: 2,
-      img: "/src/Images/laptop&phone.jpg",
+      img: "/Images/laptop&phone.jpg",
       date: "Feb 15, 2024 by Ali",
       title: "How to choose perfect Gadget",
       description: "minima facere deserunt vero illo beatae deleniti eius dolores consequuntur, eligendi corporis maiores molestiae laudantium. Porro?",
@@ -22,7 +22,7 @@ const News = () => {
     },
     {
       id: 3,
-      img: "/src/Images/secondPerson.jpg",
+      img: "/Images/secondPerson.jpg",
       date: "Feb 15, 2024 by Mohammed",
       title: "How to choose perfect VR Headset",
       description: "minima facere deserunt vero illo beatae deleniti eius dolores consequuntur, eligendi corporis maiores molestiae laudantium. Porro?",
