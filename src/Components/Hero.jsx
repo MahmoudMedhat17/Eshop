@@ -1,7 +1,8 @@
 import Slider from "react-slick";
 import Herobtn from "./Herobtn";
 import redHeadphone from "../../public/Images/Headphones.png";
-
+import firstPerson from "../../public/Images/firstPerson.png";
+import laptop from "../../public/Images/laptop.png";
 
 const heroInfo = [
     {
@@ -16,14 +17,14 @@ const heroInfo = [
         beats: "Beats Solo",
         type: "Wireless",
         name: "Virtual",
-        img: "/Images/firstPerson.png"
+        img: firstPerson
     },
     {
         id: 3,
         beats: "Beats Solo",
         type: "Wired",
         name: "Laptops",
-        img: "/Images/laptop.png"
+        img: laptop
     }
 ]
 
